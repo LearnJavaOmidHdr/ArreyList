@@ -5,7 +5,7 @@ public class Main {
         ArrayList<Integer> list1 = new ArrayList<>();
         ArrayList<Integer> list2 = new ArrayList<>();
         System.out.println("Finding bigest number in array list ");
-        System.out.println("Update omid");
         System.out.println(list1);
+        System.out.println(list2);
     }
 }
