@@ -6,6 +6,7 @@ public class Main {
         ArrayList<Integer> list2 = new ArrayList<>();
         System.out.println("Finding bigest number in array list ");
         System.out.println("New pouria's update1");
+          System.out.println("New mojtaba's update1");
 
     }
 }
